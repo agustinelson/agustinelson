@@ -4,7 +4,7 @@
 
 I'm Agustín Medina a Undergraduate Bachelors Degree in Physics. 
 
-[![Twitter Badge](https://img.shields.io/badge/-@agustinelson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agustinelson)](https://twitter.com/agustinelson) [![Linkedin Badge](https://img.shields.io/badge/-Agustin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-an.medinacolmenero-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:an.medinacolmenero@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@agustinelson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agustinelson)](https://twitter.com/agustinelson)  [![Mail Badge](https://img.shields.io/badge/-an.medinacolmenero-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:an.medinacolmenero@gmail.com)
 
 <!-- TODO: Add last video link -->
 
