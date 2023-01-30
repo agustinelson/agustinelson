@@ -16,7 +16,7 @@ I'm Agustín Medina a Undergraduate Bachelors Degree in Physics.
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+<!--[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
@@ -24,7 +24,7 @@ I'm Agustín Medina a Undergraduate Bachelors Degree in Physics.
 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
-[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
+[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
 #### Programming Languages
 
@@ -34,12 +34,12 @@ I'm Agustín Medina a Undergraduate Bachelors Degree in Physics.
 
 [![Typescript Badge](https://img.shields.io/badge/-Fortran-007acc?style=for-the-badge&labelColor=black&logo=fortran&logoColor=007acc)](#)
 
-[![Nodejs Badge](https://img.shields.io/badge/-C-3C873A?style=for-the-badge&labelColor=black&logo=C&logoColor=3C873A)](#)
+[![Nodejs Badge](https://img.shields.io/badge/-C/C++-3C873A?style=for-the-badge&labelColor=black&logo=C&logoColor=3C873A)](#)
 
 [![GraphQL Badge](https://img.shields.io/badge/-R-e535ab?style=for-the-badge&labelColor=black&logo=R&logoColor=e535ab)](#)
 
-#### Resume / CV
+<!-- #### Resume / CV
 
-- 📫  [(English)](https://resume.io/r/P4EiIENKI)
+ - 📫  [(English)](https://resume.io/r/P4EiIENKI) -->
 
 
