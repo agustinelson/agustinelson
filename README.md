@@ -12,7 +12,7 @@ I'm Agustín Medina a Undergraduate Bachelors Degree in Physics.
 - 😄 Programming (it's funny)
 - ⚡ Hobbies: I play games and go to the GYM very often.
 
-#### Top Technologies
+<!-- #### Top Technologies -->
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
