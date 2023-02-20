@@ -30,13 +30,13 @@ I'm Agustín Medina a Undergraduate Bachelors Degree in Physics.
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-
 [![Typescript Badge](https://img.shields.io/badge/-Fortran-007acc?style=for-the-badge&labelColor=black&logo=fortran&logoColor=007acc)](#)
 
 [![Nodejs Badge](https://img.shields.io/badge/-C/C++-3C873A?style=for-the-badge&labelColor=black&logo=C&logoColor=3C873A)](#)
 
 [![GraphQL Badge](https://img.shields.io/badge/-R-e535ab?style=for-the-badge&labelColor=black&logo=R&logoColor=e535ab)](#)
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 <!-- #### Resume / CV
 
