@@ -45,7 +45,7 @@ I believe that having diverse interests and hobbies helps me stay creative, curi
 
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
-#### Programming Languages
+### Programming Languages
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#)
 
@@ -56,6 +56,10 @@ I believe that having diverse interests and hobbies helps me stay creative, curi
 [![GraphQL Badge](https://img.shields.io/badge/-R-e535ab?style=for-the-badge&labelColor=black&logo=R&logoColor=e535ab)](#)
 
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+
+[![Javascript Badge](https://img.shields.io/badge/-html-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)
+
+
 
 <!-- #### Resume / CV
 
