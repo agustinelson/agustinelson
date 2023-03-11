@@ -12,9 +12,24 @@ My experience includes working with libraries like NumPy, Pandas, and Scikit-lea
 
 <!-- TODO: Add last video link -->
 
+## Interests
+
+I have a wide range of interests, but some of my favorites include:
 
 - 😄 Programming (it's funny)
-- ⚡ Hobbies: I play games and I play guitar.
+- Technology and innovation
+- Science fiction and fantasy literature
+- Travel and adventure
+
+## Hobbies
+
+In my free time, I enjoy a variety of hobbies that keep me engaged and active. Some of my favorites include:
+
+- Playing board games and video games
+- Cooking
+- Playing guitar and listening to music
+
+I believe that having diverse interests and hobbies helps me stay creative, curious, and open-minded. I'm always looking for new opportunities to learn and grow, so feel free to reach out if you have any suggestions or ideas!
 
 <!-- #### Top Technologies -->
 
