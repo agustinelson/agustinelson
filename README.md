@@ -9,7 +9,7 @@ In my free time, I enjoy contributing to open-source projects and collaborating 
 My experience includes working with libraries like NumPy, Pandas, and Scikit-learn, as well as frameworks like Django and Flask. I'm always eager to learn new skills and take on new challenges, so feel free to get in touch if you have a project you'd like to collaborate on or a problem you need help solving! 
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@agustinelson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agustinelson)](https://twitter.com/agustinelson) -->
-[![LinkedIn Badge](https://img.shields.io/badge/-Agustin Medina-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/YourName)](https://www.linkedin.com/in/agust%C3%ADn-nelson-medina-colmenero-14007221a/)
+[![LinkedIn Badge](https://img.shields.io/badge/-AgustínMedina-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agust%C3%ADn-nelson-medina-colmenero-14007221a/)](https://www.linkedin.com/in/agust%C3%ADn-nelson-medina-colmenero-14007221a/)
 [![Mail Badge](https://img.shields.io/badge/-an.medinacolmenero-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:an.medinacolmenero@gmail.com)
 
 <!-- TODO: Add last video link -->
