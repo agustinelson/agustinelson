@@ -4,8 +4,6 @@
 
 I'm Agustín Medina a Undergraduate Bachelors Degree in Physics and a Python developer with a passion for machine learning and data analysis. I love exploring new ways to use Python to solve complex problems and create innovative applications.
 
-In my free time, I enjoy contributing to open-source projects and collaborating with other developers to create tools and libraries that make Python development easier and more accessible.
-
 My experience includes working with libraries like NumPy, Pandas, and Scikit-learn, as well as frameworks like Django and Flask. I'm always eager to learn new skills and take on new challenges, so feel free to get in touch if you have a project you'd like to collaborate on or a problem you need help solving! 
 
 <!--[![Twitter Badge](https://img.shields.io/badge/-@agustinelson-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/agustinelson)](https://twitter.com/agustinelson) -->
