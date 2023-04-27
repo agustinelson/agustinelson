@@ -60,7 +60,7 @@ I believe that having diverse interests and hobbies helps me stay creative, curi
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
 [![Javascript Badge](https://img.shields.io/badge/-html-orange?style=for-the-badge&labelColor=black&logo=html5&logoColor=orange)](#)
-##### My contributions :)
+### Snake eat my contributions 
 ![snake gif](https://github.com/agustinelson/agustinelson/blob/output/github-contribution-grid-snake.gif)
 
 <!-- #### Resume / CV
